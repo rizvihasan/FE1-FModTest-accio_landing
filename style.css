@@ -104,6 +104,17 @@ header {
   letter-spacing: -0.75px;
 }
 
+/* testing something out */
+
+.plove {
+  background-color: white;
+  border-radius: 10px;
+  height: fit-content;
+  width: fit-content;
+  padding-inline: 8px;
+  box-shadow: 0px 0px 7px gray;
+}
+
 .hero>div:nth-child(1)>h1:nth-child(2) {
   color: #2b2f34;
   font-family: ABeeZee;
